@@ -1,0 +1,11 @@
+Instructions:
+1) Enhance the given image 𝑔(𝑥, 𝑦) using the suitable operation(s) to get an 
+enhanced version 𝑓(𝑥, 𝑦).
+2) Get the frequency domain representation 𝐹(𝑢, 𝑣) of 𝑓(𝑥, 𝑦) using Fourier 
+Transform
+3) What is the DC value of 𝐹(𝑢, 𝑣)?
+4) Select the necessary five frequency domain features as the image’s 
+signature vector.
+5) Obtain the signature vector for each image in each class.
+6) Classify the testing image to belong to one of the five previously mentioned 
+classes.
